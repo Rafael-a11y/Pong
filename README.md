@@ -9,8 +9,10 @@ Começar a aprender JavaScript
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](#vitrinedev)
+![Print Pong JavaScript](https://user-images.githubusercontent.com/63820646/218339687-21961b45-d2f4-4426-a5a5-dc2ae287f214.png#vitrinedev)
+
 
 ## Detalhes do projeto
 
 Projeto feito em JavaScript com o intuito de aprender a lógica de programação.
+
